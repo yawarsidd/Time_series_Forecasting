@@ -1,5 +1,5 @@
 # Time_series_Forecasting
-The dataset contains the number of tractors sold for each month from 2003 to 2014. The models  that perform in the project to forecast the sales for next two years are EXPONENTIAL SMOOTHENING MODEL (ETS) & AUTO REGRESSIVE INTEGRATED MOVING AVERAGE (ARIMA)
+The dataset contains the number of tractors sold for each month from 2003 to 2014. The aim is to forecast the sales for next two years using EXPONENTIAL SMOOTHENING MODEL (ETS) & AUTO REGRESSIVE INTEGRATED MOVING AVERAGE (ARIMA)
 
 Exponential Smoothening Model
 
